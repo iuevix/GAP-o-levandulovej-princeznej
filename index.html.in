@@ -1,6 +1,6 @@
 <!-- Site bootstrapped with GreenAcidPipe -->
 <!DOCTYPE html>
-<html><head><title>o levandulovej princeznej</title><link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet"/></head><body style="background-color:lightsalmon;color:darkgreen;"><h1>o levandulovej princeznej - Made with <a href="https://greenacidpipe.vercel.app">GreenAcidPipe/RedGas</a></h1><div id="site_content">
+<html><head><title>o levandulovej princeznej</title><link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet"/></head><body style="background-color:lavender;color:darkgreen;"><h1>o levandulovej princeznej - Made with <a href="https://greenacidpipe.vercel.app">GreenAcidPipe/RedGas</a></h1><div id="site_content">
 <!-- Start RedGas content -->
 %(site_content)
 <!-- End RedGas content -->
